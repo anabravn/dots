@@ -1,0 +1,5 @@
+*.internalBorder: 20
+*.scrollBar: false
+*.font: xft:FantasqueSansM NerdFont Mono:size=12
+*.boldFont: xft:FantasqueSansM NerdFont Mono:style=bold:size=12
+*.italicFont: xft:FantasqueSansM NerdFont Mono:style=italic:size=12
